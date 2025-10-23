@@ -63,6 +63,3 @@ Metrics & it's  Key Findings
  Aspiring Data Analyst  
 
 Transforming raw data into meaningful insights through analytics and visualization
-
-
-Would you like me to also include a **small preview image section** (a placeholder where you can later upload a dashboard screenshot)? It makes your GitHub project look even more attractive at the top.
